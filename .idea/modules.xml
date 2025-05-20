@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayPrinter/ArrayPrinter.iml" filepath="$PROJECT_DIR$/ArrayPrinter/ArrayPrinter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_of_positives-sum_of_negatives/Count_of_positives-sum_of_negatives.iml" filepath="$PROJECT_DIR$/Count_of_positives-sum_of_negatives/Count_of_positives-sum_of_negatives.iml" />
       <module fileurl="file://$PROJECT_DIR$/Welcome_to_the_city/Welcome_to_the_city.iml" filepath="$PROJECT_DIR$/Welcome_to_the_city/Welcome_to_the_city.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/codewars.iml" filepath="$PROJECT_DIR$/.idea/codewars.iml" />
